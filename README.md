@@ -2,7 +2,7 @@
 
 ### Hi everyone! 👋
 
-My name is Vinicius, I am a Master on Production and Computacional System currently working as a Data Scientist. I am passionate about kitesurf and data-driven technologies. In my spare time you will probably find me playing with my daughter or playing Fifa on Xbox.
+My name is Vinicius, I am a Master in Production and Computacional System currently working as a Data Scientist. I am passionate about kitesurf and data-driven technologies. In my spare time you will probably find me playing with my daughter or playing Fifa on Xbox.
 
 Currently, as a Data Scientist, I am able to:
 * To develop algorithms using Python language to filter results from collected data;
